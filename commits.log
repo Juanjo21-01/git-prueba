@@ -1,0 +1,104 @@
+commit f12953b2ded0c1c4ed7af3569a4d26c12894435c
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sun Dec 4 21:14:57 2022 -0600
+
+    Corrigiendo Agregando parrafos
+
+commit 965601638d55f9fb1645254ac6b9bc465cd60d35
+Merge: 7d1d3a8 068a95e
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sun Dec 4 21:04:29 2022 -0600
+
+    Resolviendo conflico en estaciones del año y fecha de inicio
+
+commit 7d1d3a83217e68571382ebdfc62403a8376ce715
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sun Dec 4 20:49:24 2022 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 068a95e06d29bb1d2903ee3118b0c25a880bf991
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sun Dec 4 20:49:24 2022 -0600
+
+    Agregando estaciones del año
+
+commit 7a28a39a918b657677e1518bd5e043e71de9861b
+Merge: 544a846 9ebb5b3
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sun Dec 4 20:42:39 2022 -0600
+
+    Resolviendo conflicto merge  master/html en el documento index.html
+
+commit 9ebb5b3a2af46f90a6da19fee791fe9212ae729e
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sun Dec 4 20:33:18 2022 -0600
+
+    Agregando index.js al index.html
+
+commit 544a8463d3b4bbad49ad0a0c9ca049049544d0bd
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sun Dec 4 20:30:59 2022 -0600
+
+    Agregando style.css al index.html
+
+commit deb36d06e773fee65e4146490f4a247dc5297352
+Merge: 4847f64 1ea5046
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sat Dec 3 11:46:10 2022 -0600
+
+    Merge branch 'js'
+
+commit 1ea504607492c4ec1c8d7a8345a6eaf99d4d44e9
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sat Dec 3 11:29:49 2022 -0600
+
+    Creando Archivo index.js
+
+commit 4847f6405e31d1ca0e049a9cd1f667dc47c35c36
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sat Dec 3 11:24:23 2022 -0600
+
+    Creando Archivo style.css
+
+commit 197db8266faa48fa05142d9d5fec6b858b647141
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sat Dec 3 11:05:17 2022 -0600
+
+    Creando Archivo index.html
+
+commit aa4f902441bb702e4fe264e10224138896a97a1e
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Sat Dec 3 10:49:52 2022 -0600
+
+    Ignorando archivos .exe
+
+commit 4f4577a21797a9cea2fd2f700aacc78393db6ac6
+Author: Juanjo21-01 <109121969+Juanjo21-01@users.noreply.github.com>
+Date:   Fri Dec 2 21:37:16 2022 -0600
+
+    Creando licencia del repositorio
+
+commit 9f7d100b8b929f386f99daa8609074c282c51b76
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Fri Dec 2 21:24:59 2022 -0600
+
+    Agregando mas contenido readme
+
+commit 82af21116b683e543479d3eae7e17fccf7b83639
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Fri Dec 2 21:22:05 2022 -0600
+
+    Actualizar el titulo del README
+
+commit 541ad16991ff16cd78f0a453f127eb871e015d0a
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Fri Dec 2 21:10:34 2022 -0600
+
+    Agregando contenido inicial al README
+
+commit 2b6562fc5250f5fd663a250adc64dada3ff1d494
+Author: Juanjo21-01 <chevike15@gmail.com>
+Date:   Fri Dec 2 21:00:16 2022 -0600
+
+    Primer commit :)
