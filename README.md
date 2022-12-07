@@ -2,6 +2,8 @@
 
 Hola, curso de git
 
-Agregando mas contenido al readme.md
+Domina el uso de **git**: [click aqui](https://jonmircha.com/git).
+
+![Flujo de Git](git-flow.png)
 
 Este commit es para la version **1.0.0**.
